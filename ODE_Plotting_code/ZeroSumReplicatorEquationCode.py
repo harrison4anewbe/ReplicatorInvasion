@@ -1,5 +1,6 @@
 # Code to plot zero sum replicator equation
 # A is a k x k payoff matrix where k is the number of species
+# initialx is a vector that represents the initial population densities of each species
 
 # Should be same as the R code in the same folder
 # Todo: testing...
